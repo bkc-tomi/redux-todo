@@ -1,3 +1,8 @@
+Todo App
+
+react, redux, typescriptを使用。
+複数のコンポーネントに値を渡す練習。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
